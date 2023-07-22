@@ -71,7 +71,7 @@ public class CartPage extends AbstractComponents{
 		PaymentInfo paymentInfo = new PaymentInfo(driver);
 		return paymentInfo;
 	}
-
+//Check the Jenkins change
 	 
 	
 
