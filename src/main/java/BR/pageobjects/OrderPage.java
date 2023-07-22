@@ -15,6 +15,8 @@ import dev.failsafe.internal.util.Assert;
 
 public class OrderPage extends AbstractComponents{
 	
+	//Check the changes for the OrderPage
+	
 	WebDriver driver;
 	
 	//Create a constructor
